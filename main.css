@@ -1,0 +1,139 @@
+* {
+    
+    margin-left: 10px;
+    margin-top: -1px;
+    padding:0px;
+    
+        
+}
+
+
+
+header{
+    background-color: green;
+    padding-top: 0;
+    min-height: 3rem;
+    line-height: normal;
+    border-bottom: 20px solid lightgreen;
+
+    
+}
+    header,
+    .top-heading{
+        display: block;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    
+
+}
+
+.navigation ul{
+  list-style: none;
+    font-size: 1rem;
+    border-style: solid;
+    border-color: green;
+    
+    
+}
+
+
+.navigation li{
+     display: inline;
+    line-height: 50px;
+    padding-right: 50px;
+     
+    }
+
+.navigation li a{
+    color: white;
+    font-size: 1.5rem;
+    font-family: Helvetica;
+    
+}
+
+
+
+#top-heading{
+    color: whitesmoke;
+    background-image: url(css.jpg);
+    background-size: cover;
+    min-height: 15rem;
+    min-width: 8px;
+    font-size: 2rem;
+    text-align: center;
+    font-family: Helvetica;
+    
+    
+    
+    
+    
+    
+
+    
+}
+
+.first-layer{
+    font-size: 5rem;
+    
+}
+
+.second-layer{
+    
+    font-size: 4rem;
+}
+
+.body-heading{
+    
+    font-size: 3rem;
+    color: green;
+    font-family: Helvetica;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.main-body{
+    display: block;
+    font-family: helvetica;
+    font-size: 1rem;
+    color: grey;
+    margin: 5px;
+    line-height: 25px;
+    padding: 0;
+    
+    
+    
+}
+
+
+
+Heading-2 h2{
+    font-size: 1.5rem;
+    
+}
+
+
+.sub-heading{
+    
+  font-family: Helvetica;
+    font-size: 1.5rem;
+    color: green;
+    padding: 0;
+    
+}
+
+.bottom-list{
+    color: gray;
+    font-family: Helvetica;
+    font-size: 1rem;
+    line-height: 25px;
+    padding: 0px;
+    margin: 0;
+    
+    
+    
+}
+    
+    
